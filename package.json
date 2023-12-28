@@ -1,6 +1,6 @@
 {
   "name": "anaki-games-presentation-website",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "anaki games presentation website",
   "main": "index.js",
   "scripts": {
